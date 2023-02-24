@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-  <img align="right" src="./CSharp.png" alt="C# logo" width="40%" />
+  <img align="right" src="./CSharp.png" alt="C# logo" width="50%" />
   <p>
     Este repositório contém todas as atividades e exercícios desenvolvidos por
     <a href="https://www.linkedin.com/in/guilherme-ac-fernandes/" target="_blank">Guilherme Fernandes</a>
@@ -26,7 +26,7 @@
 
 - [X] Seção 1: Apresentação do curso e orientações
 - [X] Seção 2: Introdução a C# e .NET
-- [ ] Seção 3: Recapitulação de Lógica de Programação usando C#
+- [ ] Seção 3: Lógica de Programação usando C#
 - [ ] Seção 4: Classes, atributos, métodos e membros estáticos
 - [ ] Seção 5: Construtores, this, sobrecarga e encapsulamento
 - [ ] Seção 6: Comportamento de memória, arrays e listas
@@ -35,12 +35,12 @@
 - [ ] Seção 9: Enumerações e Composição
 - [ ] Seção 10: Herança e Polimorfismo
 - [ ] Seção 11: Tratamento de Exceções
-- [ ] Seção 12: Projeto - Sistema de joogo de Xadrez
+- [ ] Seção 12: [Projeto - Sistema de joogo de Xadrez]()
 - [ ] Seção 13: Trabalhando com Arquivos
 - [ ] Seção 14: Interfaces
 - [ ] Seção 15: Generics, Set e Dictionary
 - [ ] Seção 16: Tópicos especiais em C# - Parte 2
 - [ ] Seção 17: Expressões lambda, delegates e LINQ
-- [ ] Seção 18: Projeto - Sistema Web com ASP .NET Core MVC e Entity Framework
+- [ ] Seção 18: [Projeto - Sistema Web com ASP .NET Core MVC e Entity Framework]()
 
 
