@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/first-step/first-step.csproj",
+      "projectUniqueName": "/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-02/first-step/first-step.csproj",
       "projectName": "first-step",
-      "projectPath": "/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/first-step/first-step.csproj",
+      "projectPath": "/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-02/first-step/first-step.csproj",
       "packagesPath": "/Users/guilhermefernandes/.nuget/packages/",
-      "outputPath": "/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/first-step/obj/",
+      "outputPath": "/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-02/first-step/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/guilhermefernandes/.nuget/NuGet/NuGet.Config"
