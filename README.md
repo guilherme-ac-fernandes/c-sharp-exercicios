@@ -1,16 +1,28 @@
-# C# - Exercícios
+# C# - Programação Orientada a Objetos
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Guilherme Fernandes](https://www.linkedin.com/in/guilherme-ac-fernandes/)_ durante os estudos na [Udemy](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/) :rocket:
-
-<br/>
+<br />
 
 <p align="center">
-  <img src="./CSharp.png" alt="C# logo" width="40%" />
+  <img align="right" src="./CSharp.png" alt="C# logo" width="40%" />
+  <p>
+    Este repositório contém todas as atividades e exercícios desenvolvidos por
+    <a href="https://www.linkedin.com/in/guilherme-ac-fernandes/" target="_blank">Guilherme Fernandes</a>
+    durante os estudos no curso da plataforma
+    <a href="https://www.udemy.com" target="_blank">Udemy</a>
+    🚀
+  </p>
+  
+  <p>
+    Curso:
+    <a href="https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/" target="_blank">
+      C# COMPLETO Programação Orientada a Objetos
+    </a>
+  </p>
 </p>
 
+<br />
 
-
-### Conteúdo do Curso :white_check_mark:
+### Conteúdo do Curso :hourglass_flowing_sand:
 
 - [X] Seção 1: Apresentação do curso e orientações
 - [X] Seção 2: Introdução a C# e .NET
@@ -20,16 +32,15 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ ] Seção 6: Comportamento de memória, arrays e listas
 - [ ] Seção 7: Tópicos especiais em C# - Parte 1
 - [ ] Seção 8: Git e GitHub
-- [ ] Seção 9: Enumerações e composição
-- [ ] Seção 10:
-- [ ] Seção 11:
-- [ ] Seção 12:
-- [ ] Seção 13:
-- [ ] Seção 14:
-- [ ] Seção 15:
-- [ ] Seção 16:
-- [ ] Seção 17:
-- [ ] Seção 18:
-- [ ] Seção 19:
+- [ ] Seção 9: Enumerações e Composição
+- [ ] Seção 10: Herança e Polimorfismo
+- [ ] Seção 11: Tratamento de Exceções
+- [ ] Seção 12: Projeto - Sistema de joogo de Xadrez
+- [ ] Seção 13: Trabalhando com Arquivos
+- [ ] Seção 14: Interfaces
+- [ ] Seção 15: Generics, Set e Dictionary
+- [ ] Seção 16: Tópicos especiais em C# - Parte 2
+- [ ] Seção 17: Expressões lambda, delegates e LINQ
+- [ ] Seção 18: Projeto - Sistema Web com ASP .NET Core MVC e Entity Framework
 
 
