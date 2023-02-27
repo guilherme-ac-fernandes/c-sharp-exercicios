@@ -24,3 +24,4 @@ Console.WriteLine($"RESULTADO = {number:F2}"); // Interpolação
 Console.WriteLine("A paciente " + name + " tem " + age + " anos e seu sexo é " + genre);
 
 Console.ReadLine();
+

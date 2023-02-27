@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/data-output.csproj",
-      "projectName": "data-output",
-      "projectPath": "/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/data-output.csproj",
+      "projectUniqueName": "/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/data-output-example.csproj",
+      "projectName": "data-output-example",
+      "projectPath": "/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/data-output-example.csproj",
       "packagesPath": "/Users/guilhermefernandes/.nuget/packages/",
-      "outputPath": "/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/obj/",
+      "outputPath": "/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/guilhermefernandes/.nuget/NuGet/NuGet.Config"

@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = data_output
-build_property.ProjectDir = /Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/
+build_property.RootNamespace = data_output_example
+build_property.ProjectDir = /Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/

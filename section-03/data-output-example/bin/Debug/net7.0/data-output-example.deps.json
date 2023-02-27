@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "data-output/1.0.0": {
+      "data-output-example/1.0.0": {
         "runtime": {
-          "data-output.dll": {}
+          "data-output-example.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "data-output/1.0.0": {
+    "data-output-example/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

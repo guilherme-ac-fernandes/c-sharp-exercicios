@@ -1,0 +1,15 @@
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/bin/Debug/net7.0/data-output-example
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/bin/Debug/net7.0/data-output-example.deps.json
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/bin/Debug/net7.0/data-output-example.runtimeconfig.json
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/bin/Debug/net7.0/data-output-example.dll
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/bin/Debug/net7.0/data-output-example.pdb
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/obj/Debug/net7.0/data-output-example.csproj.AssemblyReference.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/obj/Debug/net7.0/data-output-example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/obj/Debug/net7.0/data-output-example.AssemblyInfoInputs.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/obj/Debug/net7.0/data-output-example.AssemblyInfo.cs
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/obj/Debug/net7.0/data-output-example.csproj.CoreCompileInputs.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/obj/Debug/net7.0/data-output-example.dll
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/obj/Debug/net7.0/refint/data-output-example.dll
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/obj/Debug/net7.0/data-output-example.pdb
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/obj/Debug/net7.0/data-output-example.genruntimeconfig.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output-example/obj/Debug/net7.0/ref/data-output-example.dll
