@@ -1,0 +1,15 @@
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/obj/Debug/net7.0/data-output.csproj.AssemblyReference.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/obj/Debug/net7.0/data-output.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/obj/Debug/net7.0/data-output.AssemblyInfoInputs.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/obj/Debug/net7.0/data-output.AssemblyInfo.cs
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/obj/Debug/net7.0/data-output.csproj.CoreCompileInputs.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/bin/Debug/net7.0/data-output
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/bin/Debug/net7.0/data-output.deps.json
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/bin/Debug/net7.0/data-output.runtimeconfig.json
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/bin/Debug/net7.0/data-output.dll
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/bin/Debug/net7.0/data-output.pdb
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/obj/Debug/net7.0/data-output.dll
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/obj/Debug/net7.0/refint/data-output.dll
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/obj/Debug/net7.0/data-output.pdb
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/obj/Debug/net7.0/data-output.genruntimeconfig.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-output/obj/Debug/net7.0/ref/data-output.dll
