@@ -1,0 +1,15 @@
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-types-example/bin/Debug/net7.0/data-types-example
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-types-example/bin/Debug/net7.0/data-types-example.deps.json
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-types-example/bin/Debug/net7.0/data-types-example.runtimeconfig.json
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-types-example/bin/Debug/net7.0/data-types-example.dll
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-types-example/bin/Debug/net7.0/data-types-example.pdb
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-types-example/obj/Debug/net7.0/data-types-example.csproj.AssemblyReference.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-types-example/obj/Debug/net7.0/data-types-example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-types-example/obj/Debug/net7.0/data-types-example.AssemblyInfoInputs.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-types-example/obj/Debug/net7.0/data-types-example.AssemblyInfo.cs
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-types-example/obj/Debug/net7.0/data-types-example.csproj.CoreCompileInputs.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-types-example/obj/Debug/net7.0/data-types-example.dll
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-types-example/obj/Debug/net7.0/refint/data-types-example.dll
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-types-example/obj/Debug/net7.0/data-types-example.pdb
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-types-example/obj/Debug/net7.0/data-types-example.genruntimeconfig.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-types-example/obj/Debug/net7.0/ref/data-types-example.dll
