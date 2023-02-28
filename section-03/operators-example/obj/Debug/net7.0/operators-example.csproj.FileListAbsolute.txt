@@ -1,0 +1,15 @@
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/operators-example/bin/Debug/net7.0/operators-example
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/operators-example/bin/Debug/net7.0/operators-example.deps.json
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/operators-example/bin/Debug/net7.0/operators-example.runtimeconfig.json
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/operators-example/bin/Debug/net7.0/operators-example.dll
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/operators-example/bin/Debug/net7.0/operators-example.pdb
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/operators-example/obj/Debug/net7.0/operators-example.csproj.AssemblyReference.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/operators-example/obj/Debug/net7.0/operators-example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/operators-example/obj/Debug/net7.0/operators-example.AssemblyInfoInputs.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/operators-example/obj/Debug/net7.0/operators-example.AssemblyInfo.cs
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/operators-example/obj/Debug/net7.0/operators-example.csproj.CoreCompileInputs.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/operators-example/obj/Debug/net7.0/operators-example.dll
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/operators-example/obj/Debug/net7.0/refint/operators-example.dll
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/operators-example/obj/Debug/net7.0/operators-example.pdb
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/operators-example/obj/Debug/net7.0/operators-example.genruntimeconfig.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/operators-example/obj/Debug/net7.0/ref/operators-example.dll
