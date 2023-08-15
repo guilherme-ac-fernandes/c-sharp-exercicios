@@ -1,0 +1,15 @@
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-input-examples/bin/Debug/net7.0/data-input-examples
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-input-examples/bin/Debug/net7.0/data-input-examples.deps.json
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-input-examples/bin/Debug/net7.0/data-input-examples.runtimeconfig.json
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-input-examples/bin/Debug/net7.0/data-input-examples.dll
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-input-examples/bin/Debug/net7.0/data-input-examples.pdb
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-input-examples/obj/Debug/net7.0/data-input-examples.csproj.AssemblyReference.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-input-examples/obj/Debug/net7.0/data-input-examples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-input-examples/obj/Debug/net7.0/data-input-examples.AssemblyInfoInputs.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-input-examples/obj/Debug/net7.0/data-input-examples.AssemblyInfo.cs
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-input-examples/obj/Debug/net7.0/data-input-examples.csproj.CoreCompileInputs.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-input-examples/obj/Debug/net7.0/data-input-examples.dll
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-input-examples/obj/Debug/net7.0/refint/data-input-examples.dll
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-input-examples/obj/Debug/net7.0/data-input-examples.pdb
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-input-examples/obj/Debug/net7.0/data-input-examples.genruntimeconfig.cache
+/Users/guilhermefernandes/Developer/c-sharp/c-sharp-exercicios/section-03/data-input-examples/obj/Debug/net7.0/ref/data-input-examples.dll
